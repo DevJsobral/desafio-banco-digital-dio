@@ -11,7 +11,6 @@ O "Banco Digital OO" é uma aplicação Java orientada a objetos que simula as o
 - **Java**: Linguagem principal utilizada no desenvolvimento.
 - **Lombok**: Biblioteca para reduzir o código boilerplate.
 - **Maven**: Gerenciador de dependências.
-- **JUnit**: Ferramenta para testes automatizados.
 
 ## 🚀 Funcionalidades Implementadas
 
